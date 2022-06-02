@@ -1,5 +1,5 @@
 module ActiveAdmin
-  module Globalize
+  module Globalize3
     module FormBuilderExtension
       extend ActiveSupport::Concern
 
